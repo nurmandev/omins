@@ -44,7 +44,7 @@ const ProfileBody = () => {
     };
 
     fetchUserData();
-  }, []);
+  }, [token]);
 
   const handleSave = async () => {
     try {
