@@ -247,7 +247,7 @@ Feel free to fork the repository and create a pull request! 😊
 ## 📜 License
 This project is licensed under the **MIT License**.
 
-🚀 **OMNIS - Real Estate** | Built with ❤️ by [AHMAD-JX](https://github.com/AHMAD-JX)
+🚀 **OMNIS - Real Estate** | Built with ❤️ by [NURMANDEV](https://github.com/nurmandev)
 
 
 
